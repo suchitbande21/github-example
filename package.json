@@ -1,0 +1,19 @@
+{
+  "name": "github-example",
+  "version": "1.0.0",
+  "description": "gitub demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchitbande21/github-example.git"
+  },
+  "author": "Suchit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suchitbande21/github-example/issues"
+  },
+  "homepage": "https://github.com/suchitbande21/github-example#readme"
+}
